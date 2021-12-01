@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Sobes6</string>
+    <string name="emtpy_dialog_text">Заполните все поля!</string>
+    <string name="dialog_davl_text">Давление</string>
+    <string name="_120">120</string>
+    <string name="razd_dialog">/</string>
+    <string name="_80">80</string>
+    <string name="_60">60</string>
+    <string name="heartbeat_dialog_text">Пульс</string>
+    <string name="ok">OK</string>
+    <string name="cancel_text">Отмена</string>
 </resources>
